@@ -1,0 +1,44 @@
+
+button
+{
+  padding:5px;
+  border-radius:2px;
+  width: 30px;
+}
+
+.green
+{
+  background-color: green;
+  color:white;
+  width: 60px;
+}
+
+.li,ul
+{
+  list-style: none;
+}
+
+.Products
+{
+  width: 80px;
+  margin: 0 auto;
+}
+
+img
+{
+  width:100px
+}
+
+.clear
+{
+  width:120px
+}
+input
+{
+  width:120px
+
+}
+p
+{
+  font-size: 10px;
+}
