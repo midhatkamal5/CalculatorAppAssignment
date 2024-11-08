@@ -15,7 +15,7 @@ function Calculator(props) {
     }
 
     function handleComputation() {
-        setInput([...input,"="]);    
+        setInput([...input,'=']);    
 
         if (operand !== null && operator !== null) {
             let result;
